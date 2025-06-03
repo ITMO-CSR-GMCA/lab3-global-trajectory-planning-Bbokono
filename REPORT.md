@@ -174,3 +174,4 @@ Provided intuitive and effective visualizations for analysis
 Showed resilience to local minima using perturbation strategy
 
 The combination of 2D and 3D visualizations provided a comprehensive understanding of the geometric trajectory and the potential field dynamics, making this method a valuable tool for studying and debugging path planning algorithms.
+
